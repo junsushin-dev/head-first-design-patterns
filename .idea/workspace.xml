@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0fd220-04b8-4cb0-987a-2690a8fb53dd" name="Changes" comment="feat: Add base code for iterator exercise">
-      <change afterPath="$PROJECT_DIR$/src/iterator/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
+    <list default="true" id="fb0fd220-04b8-4cb0-987a-2690a8fb53dd" name="Changes" comment="feat: Add iterator for DinerMenu">
+      <change afterPath="$PROJECT_DIR$/src/iterator/PancakeHouseIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/PancakeHouseMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Initialize project" />
     <MESSAGE value="feat: Add base code for iterator exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add base code for iterator exercise" />
+    <MESSAGE value="feat: Add iterator for DinerMenu" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add iterator for DinerMenu" />
   </component>
 </project>
