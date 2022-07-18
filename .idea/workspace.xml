@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0fd220-04b8-4cb0-987a-2690a8fb53dd" name="Changes" comment="feat: Add iterator for DinerMenu">
+      <change afterPath="$PROJECT_DIR$/src/state/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/CafeMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/DinerMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/PancakeHouseMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/Waitress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.GumballMachineTestDrive" />
+      <module name="head-first-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iterator.MenuTestDrive" />
       <module name="head-first-design-patterns" />
@@ -62,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
       </list>
     </recent_temporary>
