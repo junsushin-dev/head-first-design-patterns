@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0fd220-04b8-4cb0-987a-2690a8fb53dd" name="Changes" comment="refactor: Change Waitress to receive a list of menus">
-      <change afterPath="$PROJECT_DIR$/src/state/WinnerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/MyRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/MyRemoteClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/MyRemoteImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/GumballMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/HasQuarterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/HasQuarterState.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GumballMachineTestDrive">
+  <component name="RunManager" selected="Application.MyRemoteImpl">
     <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="state.GumballMachineTestDrive" />
       <module name="head-first-design-patterns" />
@@ -69,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyRemoteImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.MyRemoteImpl" />
+      <module name="head-first-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyRemoteImpl" />
         <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
       </list>
